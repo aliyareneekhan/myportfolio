@@ -1,0 +1,62 @@
+body {
+    padding: 0;
+    margin: 0;
+    margin-top: 0;
+    background-color: #F5E2C9;
+    background-image: url("warm-amber-patterns-part-2-7.jpg");
+}
+.Intro p {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: black;
+	text-align: left;
+	font-size: 12pt;
+}
+
+.paragraph-link a
+{
+	text-decoration: none;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: black;
+	text-align: left;
+	font-size: 12pt;
+}
+
+.paragraph-link a:visited 
+{
+	text-decoration: none;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: black;
+	text-align: left;
+	font-size: 12pt;
+}
+
+.Intro h2
+{
+	color: black;
+	font-weight: bold;
+	text-align: left;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16pt;
+	font-style: initial;
+}
+.paragraph-link a:hover 
+{
+	font-weight: bold;
+}
+.Intro {
+	/*background-image: -webkit-linear-gradient(#f4d442, #e58c10);*/
+	display: block;
+	position: relative;
+	overflow: scroll;
+	height: auto;
+	width: 100%;
+}
+
+.footer p {
+	font-family: "Amatic SC";
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    overflow: scroll;
+    color: black;
+}
